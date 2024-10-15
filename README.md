@@ -12,7 +12,7 @@ You can find more information about this great Auburn tradition and initiative [
 
 This is an interactive script where you can add your name, and as an outcome, you will receive a heartening **HEY!** from the Auburn family.
 
-```ruby
+```bash
 #!/bin/bash
 
 #user will be asked to type name
